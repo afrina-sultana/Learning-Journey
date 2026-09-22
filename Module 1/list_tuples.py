@@ -8,3 +8,5 @@ print(b)
 c =list(range(1 , 16 , 2))
 # range(start , end sequence)
 print(c)
+d ="one side love"
+print(list(d))
