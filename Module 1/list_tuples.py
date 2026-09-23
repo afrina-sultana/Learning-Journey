@@ -10,3 +10,5 @@ c =list(range(1 , 16 , 2))
 print(c)
 d ="one side love"
 print(list(d))
+e ="i like python"
+print(e)
